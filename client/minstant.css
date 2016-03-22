@@ -1,0 +1,19 @@
+/* CSS declarations go here */
+
+.user_avatar{
+	min-height:100px;
+	text-align: center;
+
+}
+.avatar_img{
+	height:75px;
+}
+.label{
+	font-size: 130%;
+}
+.otherUserMsg{
+	text-align: right;
+}
+img{
+	    border-radius: 26px;
+}
